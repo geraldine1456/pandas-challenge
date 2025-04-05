@@ -58,7 +58,7 @@ The report includes school-level performance metrics such as:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/pycity-schools-analysis.git
+   git clone https://github.com/geraldine1456/pandas-challenge.git
 
 2. Install required dependencies:
    ```bash
