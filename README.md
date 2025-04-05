@@ -1,4 +1,4 @@
-# pPandas-Challenge 
+# Pandas-Challenge 
 
 # PyCity Schools Analysis
 
