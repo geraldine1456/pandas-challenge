@@ -70,7 +70,7 @@ The report includes school-level performance metrics such as:
 
 ----
 
-## Resources adn References
+## Resources and References
 1. [Python Official Documentation](https://docs.python.org/)
 2. [Pandas Documentation](https://pandas.pydata.org/docs/)
 3. [Jupyter Notebook Guide](https://jupyter.org/)
