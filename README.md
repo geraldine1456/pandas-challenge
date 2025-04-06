@@ -76,7 +76,7 @@ The report includes school-level performance metrics such as:
 3. [Jupyter Notebook Guide](https://jupyter.org/)
 4. [W3Schools](https://www.w3schools.com/)
 5. [Microsoft Copilot](https://copilot.microsoft.com/)  
-6. **Data Source** : PyCitySchools\Resources (**`schools_complete.csv`** and **`students_complete`**)
+6. **Data Source** : PyCitySchools\Resources (**`schools_complete.csv`** and **`students_complete.csv`**)
 
 ----
 
